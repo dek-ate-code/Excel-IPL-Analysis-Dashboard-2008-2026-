@@ -1,0 +1,1 @@
+Interactive IPL Performance Analysis Dashboard built in Microsoft Excel using PivotTables, PivotCharts and Slicers to analyze team performance, title winners, Man of the Match awards, venues and toss decisions from 2008–2026.
